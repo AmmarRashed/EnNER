@@ -11,7 +11,7 @@
 ## Usage:
 -  `$ crf_learn template_file train_file model_file`
 -  `$ crf_test -m model_file test_files`
--` `$ python accuracy.py`output_file`
+-  `$ python accuracy.py`output_file`
 
 ## Results format:
 -  output file: Word feature-1 ... feature-n Actual-label Predicted-label
