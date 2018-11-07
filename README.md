@@ -1,7 +1,7 @@
 # Named Entity Recognition (NER)
 ### Using Conditional Random Fields (CRF)
 
-<img src="http://blog.paralleldots.com/wp-content/uploads/2017/09/Named-entity-recognition-Paralleldots.jpg" width=600>
+<img src="https://github.com/AmmarRashed/NER/blob/master/REX-hero.png?raw=true" width=600>
 
 ## Libraries:
 -  <a href="https://taku910.github.io/crfpp/">CRF++: Yet Another CRF toolkit</a>
